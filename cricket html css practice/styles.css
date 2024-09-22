@@ -1,0 +1,52 @@
+
+body {
+    background-image: url(./img/cricpro-bg.png);
+    background-repeat: no-repeat;
+    background-position: right bottom; 
+    background-size: contain; 
+    height: 100vh; 
+    margin: 0; 
+    /* display: flex; */
+}
+
+img{
+    margin-left: 1100px;
+    margin-top: 30px;
+}
+
+h1{
+    margin-left: 50px;
+    margin-top: -30px;
+}
+
+h3{
+    margin-left: 50px;
+    margin-top: -10px;
+    color: gray;
+}
+
+table {
+   
+    margin-left: 15px;
+    margin-top: 20px;
+    border-collapse: collapse; 
+    /* border: 2px solid grey;  */
+    
+}
+
+tr {
+    border-bottom: 1px solid rgb(194, 191, 191); 
+    background-color: #f0f0f0;
+
+}
+
+th, td {
+    padding: 8px;
+    text-align: center;
+}
+
+
+
+
+
+
